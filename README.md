@@ -69,11 +69,18 @@ plt.title("Customer Segments")
 
 ## Output:
 ## data.head()
-![Screenshot 2023-11-11 161021](https://github.com/dilipkumar1265/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119065291/2fa6933c-20b4-4d41-adc0-9a46810b92fe)
+![Screenshot 2023-11-11 164112](https://github.com/dilipkumar1265/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119065291/9e4d77bc-f769-456a-8c67-a7c7118ac595)
 ## data.info()
-![Screenshot 2023-11-11 161028](https://github.com/dilipkumar1265/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119065291/08d85999-70d5-42a7-8f76-d62ee3db6f69)
-![Screenshot 2023-11-11 161034](https://github.com/dilipkumar1265/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119065291/4f27fab0-da14-4f25-af92-c68ccfd6488f)
-![Screenshot 2023-11-11 161041](https://github.com/dilipkumar1265/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119065291/781002cc-0a34-4a8f-8353-21ea0a2872aa)
+![Screenshot 2023-11-11 164141](https://github.com/dilipkumar1265/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119065291/0668e4aa-6211-43b0-a351-61e1966b5d88)
+## data.isnull().sum()
+![Screenshot 2023-11-11 165013](https://github.com/dilipkumar1265/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119065291/94cd76e2-681c-4f66-9b59-be743d3fe80d)
+## elbow method
+![Screenshot 2023-11-11 164157](https://github.com/dilipkumar1265/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119065291/9c0886b4-f5fe-49b4-9563-8930b61abc71)
+## K Means cluster
+![Screenshot 2023-11-11 164205](https://github.com/dilipkumar1265/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119065291/92e9fef6-62c5-4a38-a635-7d2f1eb82b10)
+## customer segments
+![Screenshot 2023-11-11 164217](https://github.com/dilipkumar1265/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119065291/dc94977e-f1c8-4afc-8603-94183d94f753)
+
 
 
 ## Result:
